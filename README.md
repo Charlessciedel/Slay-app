@@ -1,15 +1,15 @@
 # Instagram Clone
-<<<<<<< HEAD
-=======
 
->>>>>>> db74c6523e3aa015207ee110fbb27791e143e5c6
+
+
 ### An application that mimics the image sharing network, Instagram
 
 
 
 ## Description
-This is a clone of the image sharing network, Instagram. Users can sign up login, view and post photos and follow other users.#### Link to deployed site
-https://instajram.herokuapp.com/
+This is a clone of the image sharing network, Instagram. Users can sign up login, view and post photos and follow other users.
+Link to deployed site https://instajram.herokuapp.com/
+
 
 ## Table of content
 1. [Description](#description)
